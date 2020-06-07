@@ -1,1 +1,1 @@
-A variational autoencoder to generate faces. You can change the value of the factor of kl divergence affecting to train the model to generate faces less sismilar to input face and more towards the general distribution of the dataset.
+A variational autoencoder to generate faces. You can change the value of the factor of kl divergence affecting to train the model to generate faces less similar to input face and more towards the general distribution of the dataset.
